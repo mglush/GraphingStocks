@@ -4,7 +4,6 @@ Graphing stock market tickers and the statistical analysis indicators that come 
 
 ## Table of Contents
 * [The Work So Far](https://github.com/mglush/graphingStocks/blob/main/README.md#the-work-so-far)
-** Charts
 * [Installation](https://github.com/mglush/graphingStocks/blob/main/README.md#installation)
 * [Usage](https://github.com/mglush/graphingStocks/blob/main/README.md#usage)
 * [Next Steps](https://github.com/mglush/graphingStocks/blob/main/README.md#next-steps)
