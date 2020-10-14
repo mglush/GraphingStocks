@@ -12,9 +12,10 @@ First stock worked on: '$WKHS'
 ![candle](/Candle.jpg)
 
 * Use of Moving Averages and Bollinger Bands:
-Moving Averages            |  Bollinger Bands
+
+Moving Averages             |  Bollinger Bands
 :-------------------------:|:-------------------------:
-![](/MA.jpg)               |  ![](/BollBands.jpg)
+![](/MA.jpg)              |  ![](/BollBands.jpg)
 
 * Buy/Sell Strategy 1: MA crossover
 
