@@ -5,10 +5,15 @@ Graphing stock market tickers and the statistical analysis indicators that come 
 ## The Work So Far:
 
 First stock worked on: '$WKHS'
-* Charted the ![closing price](/Chart.jpg) of the ticker
+* Charted the closing price of the ticker
+![closing price](/Chart.jpg)
 * Able to look at the Candlestick chart
+![candle](/Candle.jpg)
 * Use of Moving Averages and Bollinger Bands
+![ma](/MA.jpg)
+![boll](/BollBands.jpg)
 * Buy/Sell Strategy 1: MA crossover
+![strat](/MAstrat.jpg)
 
 
 ## Next Steps:
