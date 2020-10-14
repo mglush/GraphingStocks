@@ -6,9 +6,10 @@ Graphing stock market tickers and the statistical analysis indicators that come 
 * [The Work So Far](https://github.com/mglush/graphingStocks/blob/main/README.md#the-work-so-far)
 * [Installation](https://github.com/mglush/graphingStocks/blob/main/README.md#installation)
 * [Usage](https://github.com/mglush/graphingStocks/blob/main/README.md#usage)
+* [Next Steps](https://github.com/mglush/graphingStocks/blob/main/README.md#next-steps)
 * [Credits](https://github.com/mglush/graphingStocks/blob/main/README.md#credits)
 
-## The Work So Far:
+## The Work So Far
 First stock worked on: '$WKHS'
 
 * Charted the closing price of the ticker:
@@ -27,8 +28,18 @@ Moving Averages             |  Bollinger Bands
 
 ![strat](/MAstrat.jpg)
 
+## Installation
 
-## Next Steps:
+Yuhhhhh
+
+## Usage
+
+Yuhhhhh
+
+## Next Steps
 * Implement the running of multiple simulations competing against each other on the stock market, with each simulation employing a different trading strategy.
 * Find the best set of 2-3 statistical analysis indicators which a simulation can use to profit the most in today's market.
 * Train and compare statistical and machine learning models and results.
+
+## Credits
+By Michael Glushchenko.
