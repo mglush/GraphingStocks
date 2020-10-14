@@ -41,9 +41,9 @@ Moving Averages             |  Bollinger Bands
 
 
 ## Installation
-* Open the terminal, and type in *git clone https://github.com/mglush/graphingStocks.git*.
-* Convert the Jupyter notebook file to a python file by using *jupyter nbconvert --to python 'Graphing Stocks'.ipynb*.
-* You will now be able to run the python file with *python 'Graphing Stocks'.py*
+* Open the terminal, and type in **git clone https://github.com/mglush/graphingStocks.git**.
+* Convert the Jupyter notebook file to a python file by using **jupyter nbconvert --to python 'Graphing Stocks'.ipynb**.
+* You will now be able to run the python file with **python 'Graphing Stocks'.py**.
 
 ## How to use
 Once new strategies are implemented, you will be able to:
