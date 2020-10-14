@@ -43,3 +43,4 @@ Yuhhhhh
 
 ## Credits
 By Michael Glushchenko.
+Sites used: https://plotly.com/, https://machinelearningmastery.com/, https://www.datacamp.com/community/tutorials, https://stackoverflow.com/.
