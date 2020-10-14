@@ -3,10 +3,10 @@
 Graphing stock market tickers and the statistical analysis indicators that come with them. Implementing a multitude of trading strategies based on these indicators. Backtesting the trading strategies, seeing which indicator sets work best.
 
 ## Table of Contents
-* The Work So Far
-* Installation
-* Usage
-* Credits
+* [The Work So Far](https://github.com/mglush/graphingStocks/blob/main/README.md#the-work-so-far)
+* [Installation](https://github.com/mglush/graphingStocks/blob/main/README.md#installation)
+* [Usage](https://github.com/mglush/graphingStocks/blob/main/README.md#usage)
+* [Credits](https://github.com/mglush/graphingStocks/blob/main/README.md#credits)
 
 ## The Work So Far:
 First stock worked on: '$WKHS'
