@@ -3,7 +3,7 @@
 Graphing stock market tickers and the statistical analysis indicators that come with them. Implementing a multitude of trading strategies based on these indicators. Backtesting the trading strategies, seeing which indicator sets work best.
 
 ## Table of Contents
-* [The Work So Far](https://github.com/mglush/graphingStocks/blob/main/README.md#work-so-far)
+* [Work So Far](https://github.com/mglush/graphingStocks/blob/main/README.md#work-so-far)
 * [Installation](https://github.com/mglush/graphingStocks/blob/main/README.md#installation)
 * [Usage](https://github.com/mglush/graphingStocks/blob/main/README.md#usage)
 * [Next Steps](https://github.com/mglush/graphingStocks/blob/main/README.md#next-steps)
@@ -43,4 +43,3 @@ Yuhhhhh
 
 ## Credits
 By Michael Glushchenko.
-Sites used: https://plotly.com/, https://machinelearningmastery.com/, https://www.datacamp.com/community/tutorials, https://stackoverflow.com/.
