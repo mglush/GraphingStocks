@@ -1,4 +1,4 @@
-# Graphing Stocks
+# Stock Charts and Technical Analysis
 
 Graphing stock market tickers and the statistical analysis indicators that come with them. Implementing a multitude of trading strategies based on these indicators. Backtesting the trading strategies, seeing which indicator sets work best.
 
