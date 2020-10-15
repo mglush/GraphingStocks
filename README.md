@@ -50,8 +50,8 @@ Moving Averages             |  Bollinger Bands
 Once new strategies are implemented, you will be able to:
 * Run the program.
 * Choose the ticker(s) and the strategy.
-* View the ticker and strategy charts in the *'[Ticker Symbol] Stock Chart'.html* file.
-* View the data for the ticker in the *'[Ticker Symbol] Stock Chart'.xlsx* file.
+* View the ticker and strategy charts in the *stockChart.html* file.
+* View the data for the ticker in the *stockData.xlsx* file.
 
 ## Next Steps
 * View the success of your strategy in a series of matplotlib charts, including percent change of the portfolio, highest and lowest portfolio values over the timeperiod, the statistical analysis of strategy effectiveness, regression charts relating the price change of multiple tickers (if more than one is entered).
