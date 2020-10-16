@@ -16,7 +16,7 @@ Graphing stock market tickers and the statistical analysis indicators that come 
 An attempt to create successful trading strategies for the stock market, and using statistics to analyze the data and results. Eventually expandable to include machine learning models that would employ these trading strategies.
 
 ## Work So Far
-First stock worked on: '$WKHS'
+Stock ticker in the example: WKHS
 
 * Charted the closing price of the ticker:
 ![closing price](/images/Chart.jpg)
