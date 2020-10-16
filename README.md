@@ -19,20 +19,20 @@ An attempt to create successful trading strategies for the stock market, and usi
 First stock worked on: '$WKHS'
 
 * Charted the closing price of the ticker:
-![closing price](/Chart.jpg)
+![closing price](/images/Chart.jpg)
 
 * Able to look at the Candlestick chart:
-![candle](/Candle.jpg)
+![candle](/images/Candle.jpg)
 
 * Use of Moving Averages and Bollinger Bands:
 
 Moving Averages             |  Bollinger Bands
 :-------------------------:|:-------------------------:
-![](/MA.jpg)              |  ![](/BollBands.jpg)
+![](/images/MA.jpg)              |  ![](/images/BollBands.jpg)
 
 * Buy/Sell Strategy 1: MA crossover
 
-![strat](/MAstrat.jpg)
+![strat](/images/MAstrat.jpg)
 
 ## Features
 * View individual tickers' intraday data for the last two weeks.
