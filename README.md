@@ -59,9 +59,9 @@ Once new strategies are implemented, you will be able to:
 * Make an option to allow the user to enter multiple tickers.
 * Implement and refine new strategies for buy and sell signals.
 * Implement the running of multiple simulations competing against each other on the stock market, with each simulation employing a different trading strategy.
-* Find the best set of 2-3 statistical analysis indicators which a simulation can use to profit the most in today's market.
+* Find the best set of statistical analysis indicators which a simulation can use to profit the most in today's market.
 * Train and compare statistical and machine learning models and results, compare to financial approaches to the stock market within intraday trading.
-* Potentially allow users to enter a filename with their own trading strategy, that this program will then use.
+* Allow users to enter a filename with their own trading strategy, that this program will then use.
 
 ## Credits
 2020 © Michael Glushchenko.
