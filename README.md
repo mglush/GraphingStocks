@@ -1,4 +1,4 @@
-## Stock Charting and Technical Analysis
+## Stock Charting and Technical Analysis with Python
 
 Graphing stock market tickers and the statistical analysis indicators that come with them. Implementing a multitude of trading strategies based on these indicators. Backtesting the trading strategies, finding the best ones.
 
