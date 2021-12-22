@@ -45,6 +45,7 @@ Moving Averages             |  Bollinger Bands
 * **cd graphingStocks** to enter the folder.
 * Convert the Jupyter notebook file to a python file by using **jupyter nbconvert --to python 'Graphing Stocks'.ipynb**.
 * You will now be able to run the python file with **python 'Graphing Stocks'.py**.
+* After running the program, you can inspect the desired chart by typing in **open ./stockChart.html**
 
 ## How to use
 Once new strategies are implemented, you will be able to:
