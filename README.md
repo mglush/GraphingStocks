@@ -54,14 +54,16 @@ Once new strategies are implemented, you will be able to:
 * View the data for the ticker in the *stockData.xlsx* file.
 
 ## Next Steps
-* Create a more Object-Oriented design.
+* Implement and refine new strategies for buy/sell signals.
 * View the success of your strategy in a series of matplotlib charts, including percent change of the portfolio, highest and lowest portfolio values over the timeperiod, the statistical analysis of strategy effectiveness, regression charts relating the price change of multiple tickers (if more than one is entered).
-* Make an option to allow the user to enter multiple tickers.
-* Implement and refine new strategies for buy and sell signals.
 * Implement the running of multiple simulations competing against each other on the stock market, with each simulation employing a different trading strategy.
-* Find the best set of statistical analysis indicators which a simulation can use to profit the most in today's market.
+* Connect the strategy of choice to a backtesting software, and deploy the strategy to trade in a real market.
+* Make an option to allow the user to enter multiple tickers.
+* Make an option to allow the user to choose the timeframe they want to inspect/trade.
+* Make an option to allow the user to combine trading strategies.
+* Allow the user to enter a filename with their own trading strategy, that this program will then use.
+* Find the best set of statistical analysis indicators which a simulation can use to profit the most in comparison to other available strategies.
 * Train and compare statistical and machine learning models and results, compare to financial approaches to the stock market within intraday trading.
-* Allow users to enter a filename with their own trading strategy, that this program will then use.
 
 ## Credits
-2020 © Michael Glushchenko.
+2021 © Michael Glushchenko.
