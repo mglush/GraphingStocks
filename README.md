@@ -54,16 +54,16 @@ Once new strategies are implemented, you will be able to:
 * View the data for the ticker in the *stockData.xlsx* file.
 
 ## Next Steps
-* Implement and refine new strategies for buy/sell signals.
-* View the success of your strategy in a series of matplotlib charts, including percent change of the portfolio, highest and lowest portfolio values over the timeperiod, the statistical analysis of strategy effectiveness, regression charts relating the price change of multiple tickers (if more than one is entered).
-* Implement the running of multiple simulations competing against each other on the stock market, with each simulation employing a different trading strategy.
-* Connect the strategy of choice to a backtesting software, and deploy the strategy to trade in a real market.
-* Make an option to allow the user to enter multiple tickers.
-* Make an option to allow the user to choose the timeframe they want to inspect/trade.
-* Make an option to allow the user to combine trading strategies.
-* Allow the user to enter a filename with their own trading strategy, that this program will then use.
-* Find the best set of statistical analysis indicators which a simulation can use to profit the most in comparison to other available strategies.
-* Train and compare statistical and machine learning models and results, compare to financial approaches to the stock market within intraday trading.
+1. Implement and refine new strategies for buy/sell signals.
+2. View the success of your strategy in a series of matplotlib charts, including percent change of the portfolio, highest and lowest portfolio values over the timeperiod, the statistical analysis of strategy effectiveness, regression charts relating the price change of multiple tickers (if more than one is entered).
+3. Implement the running of multiple simulations competing against each other on the stock market, with each simulation employing a different trading strategy.
+4. Connect the strategy of choice to a backtesting software, and deploy the strategy to trade in a real market.
+5. Make an option to allow the user to enter multiple tickers.
+6. Make an option to allow the user to choose the timeframe they want to inspect/trade.
+7. Make an option to allow the user to combine trading strategies.
+8. Allow the user to enter a filename with their own trading strategy, that this program will then use.
+9. Find the best set of statistical analysis indicators which a simulation can use to profit the most in comparison to other available strategies.
+10. Train and compare statistical and machine learning models and results, compare to financial approaches to the stock market within intraday trading.
 
 ## Credits
 2021 © Michael Glushchenko.
