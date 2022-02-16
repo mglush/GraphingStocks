@@ -7,6 +7,8 @@ from alpha_vantage.timeseries import TimeSeries
 import matplotlib.pyplot as plt
 import numpy as np
 
+pd.options.mode.chained_assignment = None
+
 # Pull a json file from Alpha Vantage, store it into an excel file locally.
 
 ALPHA_VANTAGE_API_KEY = 'K8PO7UJB8247TE1N' 
@@ -304,3 +306,6 @@ fig.update_xaxes(
 
 # Create the html file.
 fig.write_html("stockChart.html")
+
+print("Type 'open stockChart.html' to view the chart!\n")
+print("Type 'open stockChart.xlsx' to view the chart data!\n")
