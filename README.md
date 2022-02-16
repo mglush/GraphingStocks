@@ -41,10 +41,10 @@ Moving Averages             |  Bollinger Bands
 
 
 ## Installation
-* Open the terminal, and type in **git clone https://github.com/mglush/graphingStocks.git**.
+* **git clone https://github.com/mglush/graphingStocks.git** to get the repository.
 * **cd graphingStocks** to enter the folder.
-* Run the python file with **python 'Graphing Stocks'.py**.
-* You can now inspect the desired chart by typing in **open ./stockChart.html**
+* **python graphing.py** to run the file.
+* **open stockChart.html** to inspect the chart.
 
 ## How to use
 Once new strategies are implemented, you will be able to:
