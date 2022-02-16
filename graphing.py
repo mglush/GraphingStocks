@@ -14,9 +14,11 @@ pd.options.mode.chained_assignment = None
 ALPHA_VANTAGE_API_KEY = 'K8PO7UJB8247TE1N' 
 ts = TimeSeries(key=ALPHA_VANTAGE_API_KEY, output_format='pandas') 
 ticker = input("Enter ticker symbol of the stock you'd like to view: ")
-ticker = ticker.upper(); 
+ticker = ticker.upper();
+userInterval = input("Enter the number of minutes to be included per bar: ")
+userInterval = str(userInterval) + 'min'
 intraday_data, data_info = ts.get_intraday( 
-    ticker, outputsize='full', interval='1min') 
+    ticker, outputsize='full', interval=userInterval) 
 intraday_data.to_excel('stockData.xlsx')
 cbh = pd.offsets.CustomBusinessHour(start='04:00', 
                                     end='21:00', 
