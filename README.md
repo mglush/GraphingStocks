@@ -66,4 +66,4 @@ Once new strategies are implemented, you will be able to:
 10. Train and compare statistical and machine learning models and results, compare to financial approaches to the stock market within intraday trading.
 
 ## Credits
-2021 © Michael Glushchenko.
+2021, 2022 © Michael Glushchenko.
