@@ -3,16 +3,30 @@
 Graphing stock market tickers and the statistical analysis indicators that come with them. Implementing a multitude of trading strategies based on these indicators. Backtesting the trading strategies, finding the best ones.
 
 ## Table of Contents
+* [Installation](https://github.com/mglush/graphing-stocks/blob/main/README.md#installation)
+* [How to Use](https://github.com/mglush/graphing-stocks/blob/main/README.md#how-to-use)
 * [Motivation](https://github.com/mglush/graphing-stocks/blob/main/README.md#motivation)
 * [Work So Far](https://github.com/mglush/graphing-stocks/blob/main/README.md#work-so-far)
 * [Features](https://github.com/mglush/graphing-stocks/blob/main/README.md#features)
-* [Installation](https://github.com/mglush/graphing-stocks/blob/main/README.md#installation)
-* [How to Use](https://github.com/mglush/graphing-stocks/blob/main/README.md#how-to-use)
 * [Next Steps](https://github.com/mglush/graphing-stocks/blob/main/README.md#next-steps)
 * [Credits](https://github.com/mglush/graphing-stocks/blob/main/README.md#credits)
 
-## Motivation
+## Installation
+~~~
+* git clone https://github.com/mglush/graphingStocks.git    # clone repository.
+* cd graphingStocks                                         # enter the folder.
+* python graphing.py                                        # run the file
+* open stockChart.html                                      # inspect the resulting chart.
+~~~
 
+## How to use
+Once new strategies are implemented, you will be able to:
+* Run the program.
+* Choose the ticker(s) and the strategy.
+* View the ticker and strategy charts in the *stockChart.html* file.
+* View the data for the ticker in the *stockData.xlsx* file.
+
+## Motivation
 An attempt to create successful trading strategies for the stock market, and using statistics to analyze the data and results. Eventually expandable to include machine learning models that would employ these trading strategies.
 
 ## Work So Far
@@ -38,20 +52,6 @@ Moving Averages             |  Bollinger Bands
 * View individual tickers' intraday data for the last two weeks.
 * Chart the chosen ticker and strategy of choice.
 * Chart multiple tickers to compare relation between price fluctuations in the two.
-
-
-## Installation
-* **git clone https://github.com/mglush/graphingStocks.git** to get the repository.
-* **cd graphingStocks** to enter the folder.
-* **python graphing.py** to run the file.
-* **open stockChart.html** to inspect the chart.
-
-## How to use
-Once new strategies are implemented, you will be able to:
-* Run the program.
-* Choose the ticker(s) and the strategy.
-* View the ticker and strategy charts in the *stockChart.html* file.
-* View the data for the ticker in the *stockData.xlsx* file.
 
 ## Next Steps
 1. Implement and refine new strategies for buy/sell signals.
