@@ -3,13 +3,13 @@
 Graphing stock market tickers and the statistical analysis indicators that come with them. Implementing a multitude of trading strategies based on these indicators. Backtesting the trading strategies, finding the best ones.
 
 ## Table of Contents
-* [Motivation](https://github.com/mglush/graphingStocks/blob/main/README.md#motivation)
-* [Work So Far](https://github.com/mglush/graphingStocks/blob/main/README.md#work-so-far)
-* [Features](https://github.com/mglush/graphingStocks/blob/main/README.md#features)
-* [Installation](https://github.com/mglush/graphingStocks/blob/main/README.md#installation)
-* [How to Use](https://github.com/mglush/graphingStocks/blob/main/README.md#how-to-use)
-* [Next Steps](https://github.com/mglush/graphingStocks/blob/main/README.md#next-steps)
-* [Credits](https://github.com/mglush/graphingStocks/blob/main/README.md#credits)
+* [Motivation](https://github.com/mglush/graphing-stocks/blob/main/README.md#motivation)
+* [Work So Far](https://github.com/mglush/graphing-stocks/blob/main/README.md#work-so-far)
+* [Features](https://github.com/mglush/graphing-stocks/blob/main/README.md#features)
+* [Installation](https://github.com/mglush/graphing-stocks/blob/main/README.md#installation)
+* [How to Use](https://github.com/mglush/graphing-stocks/blob/main/README.md#how-to-use)
+* [Next Steps](https://github.com/mglush/graphing-stocks/blob/main/README.md#next-steps)
+* [Credits](https://github.com/mglush/graphing-stocks/blob/main/README.md#credits)
 
 ## Motivation
 
