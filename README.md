@@ -13,7 +13,7 @@ Graphing stock market tickers and the statistical analysis indicators that come 
 
 ## Installation
 ~~~
-git clone https://github.com/mglush/graphingStocks.git    # clone repository.
+git clone git@github.com:mglush/graphing-stocks.git    # clone repository.
 cd graphing-stocks                                        # enter the folder.
 python graphing.py                                        # run the file
 open stockChart.html                                      # inspect the resulting chart.
